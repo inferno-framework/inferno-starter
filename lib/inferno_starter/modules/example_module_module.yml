@@ -1,0 +1,13 @@
+name: example_module
+title: Example Module
+description : Example of an Inferno Module
+fhir_version: r4
+default_test_set: ad_hoc_testing
+test_sets:
+    ad_hoc_testing:
+        view: default
+        tests:
+            - name: Example Sequence Group
+              run_all: true
+              sequences:
+                  - ExampleSequence
