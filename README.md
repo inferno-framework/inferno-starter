@@ -14,6 +14,10 @@ Then run
 
 `bundle install --local`
 
+The application can then be started with:
+
+`bundle exec rackup`
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/inferno-community/inferno_starter.
