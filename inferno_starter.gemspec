@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name          = "inferno_starter"
   spec.version       = InfernoStarter::VERSION
   spec.authors       = ["Reece Adamson"]
-  spec.email         = ["radamson@mitre.org"]
+  spec.email         = ["inferno@groups.mitre.org"]
 
   spec.summary       = %q{An example Inferno app.}
   spec.description   = %q{An example of how to create test applications which include Inferno as a library.}
