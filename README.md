@@ -1,3 +1,9 @@
+# Project Archived
+
+Please note, this project has been archived because Inferno now uses an
+alternate method for creating and distributing testing modules.  Please visit
+https://inferno.healthit.gov for more information.
+
 # Inferno Example Starter Application
 
 This is an example of how to use inferno as a library to create custom testing modules.
